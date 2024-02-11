@@ -1,4 +1,4 @@
-# ML Telescope Pointing Model
+# ML Telescope Pointing Correction
 
 This project aims to train and test machine learning models for correcting the telescope pointing. It consists of two main experiments: training and testing.
 
