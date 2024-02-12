@@ -4,7 +4,7 @@ This project aims to train and test machine learning models for correcting the t
 
 ## Experiment 1: Shorter consecutive periods
 
-In this experiment, the data is split into 6 folds. For each fold, the data is further divided into training, validation, and test sets. 
+In this experiment, the data is split into 6 folds. For each fold, the data is further divided into training, validation, and a consecutive test set.
 
 
 ## Experiment 2: Cross-fold Model Evaluation
